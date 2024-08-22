@@ -6,66 +6,20 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 It is a systematic application of engineering principles, methods and tools to develop and maintain high quality software systems. software engineering is important because it plays a crucial role in the technology industry by enabling the creation of software applications, and systems that power various aspects of modern life, including commerce, entertainment and healthcare.
-
-
 Identify and describe at least three key milestones in the evolution of software engineering.
-i) Development of programming language - here there was creation of high level programming language such as FORTRAN which allowed programmers to write instructions in a more human-readable form. This made programming more accessible and laid the foundation for modern software development.
-ii) The establishment of software engineering as a displine- The term software engineering was popularized at the NATO software engineering conference in 1968, which was organized in response to the software Crisis. The crisis referred to the challenges of producing reliable, efficient, and maintainable software with budget and time constraints. The conference emphasized the need for systematic, engineering-based approaches to software development.
-iii) The advent of structured programming - structured programming emerged as a solution to the unmanageable nature of unstructured code. It introduce control structures like loops and conditions, promoting code readability and modularity.
-
-
-
-
+i) Development of programming language - here there was creation of high level programming language such as FORTRAN which allowed programmers to write instructions in a more human-readable form. This made programming more accessible and laid the foundation for modern software development. ii) The establishment of software engineering as a displine- The term software engineering was popularized at the NATO software engineering conference in 1968, which was organized in response to the software Crisis. The crisis referred to the challenges of producing reliable, efficient, and maintainable software with budget and time constraints. The conference emphasized the need for systematic, engineering-based approaches to software development. iii) The advent of structured programming - structured programming emerged as a solution to the unmanageable nature of unstructured code. It introduce control structures like loops and conditions, promoting code readability and modularity.
 List and briefly explain the phases of the Software Development Life Cycle.
-Requirements: this phase involves gathering and documenting user needs, and system requirements.
-Design: here there is creating high-level and detailed designs of the software architecture and use interface.
-Implementation: this phase involves writing code and building the software according to the design specifications
-
-
+Requirements: this phase involves gathering and documenting user needs, and system requirements. Design: here there is creating high-level and detailed designs of the software architecture and use interface. Implementation: this phase involves writing code and building the software according to the design specifications
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
--Waterfall has limited flexibility to accommodate changes once a phase is complete while Agile encourages changes in requirements, even late in the development process.
--Waterfall have predictable timelines and budget are easier to estimate due to the rigid structure while Agile is less predictable meaning it can be harder to estimate timelines and budget due to its iterative nature.
-waterfall scenario is well-defined projects: it is ideal for well-defined and stable requirements such as compliance systems or certain government projects where changes are minimal.
-Agile scenario is dynamic projects: It is ideal for projects where requirements are expected to change frequently, such as web development or startups with evolving products.
-
-
+-Waterfall has limited flexibility to accommodate changes once a phase is complete while Agile encourages changes in requirements, even late in the development process. -Waterfall have predictable timelines and budget are easier to estimate due to the rigid structure while Agile is less predictable meaning it can be harder to estimate timelines and budget due to its iterative nature. waterfall scenario is well-defined projects: it is ideal for well-defined and stable requirements such as compliance systems or certain government projects where changes are minimal. Agile scenario is dynamic projects: It is ideal for projects where requirements are expected to change frequently, such as web development or startups with evolving products.
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
--Software developer is responsible for writing codes and implementing software solutions, also focuses in translating requirements into working software.
--Quality Assurance engineer ensures software quality by designing and executing test plans. The engineer concentrates on testing and validating the software to ensure it meets quality standards and is free from defects.
--Projects manager oversees the entire project, ensuring it is completed on time, within scope, and within budget, while managing the team and stakeholder expectations.
-
-
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
--IDEs provide tools like auto-completion, syntax highlighting which speeds up the coding process and reduce errors. They offer integrated debugging tools that help developers identify and fix issues quickly enhancing productivity and help maintain code quality. Example of IDE is visual studio 
-- VCS are crucial for managing changes to the codebase, enabling collaboration and maintaining reliable history of the project. They help team work together efficiently even when distributed geographically. Example of VCS is Git
-
-
-
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-i) Changing requirements -implement robust change management processes to access the impact of changes on the project scope, schedule and resources.
-ii) Tight deadlines- here one can break down the project into smaller tasks with clear milestones.
-iii) Technical debt- develop a strategy to pay down technical debt incrementally, prioritize high-risk areas or critical modules for refactoring.
-
-
+-Software developer is responsible for writing codes and implementing software solutions, also focuses in translating requirements into working software. -Quality Assurance engineer ensures software quality by designing and executing test plans. The engineer concentrates on testing and validating the software to ensure it meets quality standards and is free from defects. -Projects manager oversees the entire project, ensuring it is completed on time, within scope, and within budget, while managing the team and stakeholder expectations.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each. -IDEs provide tools like auto-completion, syntax highlighting which speeds up the coding process and reduce errors. They offer integrated debugging tools that help developers identify and fix issues quickly enhancing productivity and help maintain code quality. Example of IDE is visual studio  - VCS are crucial for managing changes to the codebase, enabling collaboration and maintaining reliable history of the project. They help team work together efficiently even when distributed geographically. Example of VCS is Git
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges. i) Changing requirements -implement robust change management processes to access the impact of changes on the project scope, schedule and resources. ii) Tight deadlines- here one can break down the project into smaller tasks with clear milestones. iii) Technical debt- develop a strategy to pay down technical debt incrementally, prioritize high-risk areas or critical modules for refactoring.
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
--Unit testing involves testing individual components or unit of a software application, typically at the function or method level. It importance include early bug detection, code quality and documentation.
--Integration testing checks how different unit or components of the software work together. It importance include interface testing, catch issues early and system stability.
--System testing it validate the complete and integrated software system. It importance involves End-to-End testing and regression testing ensuring that new changes do not negatively impact existing functionality.
--Acceptance testing is conducted to determine weather the software meets the business requirements and is ready for delivery to the end user. Its impotance in validation against requirement, user satisfaction and final approval.
-
-
-
+-Unit testing involves testing individual components or unit of a software application, typically at the function or method level. It importance include early bug detection, code quality and documentation. -Integration testing checks how different unit or components of the software work together. It importance include interface testing, catch issues early and system stability. -System testing it validate the complete and integrated software system. It importance involves End-to-End testing and regression testing ensuring that new changes do not negatively impact existing functionality. -Acceptance testing is conducted to determine weather the software meets the business requirements and is ready for delivery to the end user. Its impotance in validation against requirement, user satisfaction and final approval.
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
-It is the process of crafting and refining the input queries given to artificial intelligence model to generate desired outputs.
-It importance includes;- precision in response which help to produce more precise and relevant answers.- context and clarity; clear and detailed prompts help the Al understand the users purpose better, leading to more contextual responses. - Efficiency; it reduce the need for follow-up question saving time and computational resources. - Application in various domains such as software development, content creation, customer service, and education can benefit from prompt engineering.
-
-
-
-
+It is the process of crafting and refining the input queries given to artificial intelligence model to generate desired outputs. It importance includes;- precision in response which help to produce more precise and relevant answers.- context and clarity; clear and detailed prompts help the Al understand the users purpose better, leading to more contextual responses. - Efficiency; it reduce the need for follow-up question saving time and computational resources. - Application in various domains such as software development, content creation, customer service, and education can benefit from prompt engineering.
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-example: "tell me about weather patterns."
-improved prompt: "Discuss the causes of climate change and how they impact temperature and weather patterns."
-The improved prompt is more effective for it clearly communicates the user's intention, leading to a more targeted and useful response from the Al.
+example: "tell me about weather patterns." improved prompt: "Discuss the causes of climate change and how they impact temperature and weather patterns." The improved prompt is more effective for it clearly communicates the user's intention, leading to a more targeted and useful response from the Al.
